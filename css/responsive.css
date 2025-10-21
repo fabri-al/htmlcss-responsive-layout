@@ -1,0 +1,511 @@
+/* Soluzione qui */
+
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) {
+
+
+    #logo {
+
+        display: flex;
+        position: relative;
+        right: 20%;
+        position: absolute;
+        left: 2%;
+    }
+
+    main {
+
+        padding: 10%;
+
+    }
+
+    .recipe-name {
+
+        font-size: 25px;
+    }
+
+    .recipe-name::after {
+
+        content: " (Dolce Tradizionale)";
+        font-size: 25px;
+
+    }
+
+    ul {
+
+        margin-top: 30px;
+
+        display: grid;
+
+        grid-template-columns: repeat(3, 1fr);
+
+
+
+    }
+
+
+    .social-networks button {
+
+        padding-inline: 50px;
+    }
+
+
+
+    .ads {
+
+        background-image: url(img/banner.png);
+        display: contents;
+
+    }
+
+    .ads img {
+
+
+
+        position: relative;
+
+        bottom: 65px;
+
+    }
+
+
+    .presentation img {
+
+        float: left;
+        margin-right: 20px;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+
+
+
+    .recipe-name {
+
+        font-size: 35px;
+
+        position: relative;
+
+        left: 51px;
+
+    }
+
+    .recipe-name::after {
+
+        content: " (Dolce Tradizionale)";
+        font-size: 35px;
+
+    }
+
+
+    .recipe-title {
+
+        width: 85%;
+        position: relative;
+        bottom: 93px;
+        right: 92px;
+
+    }
+
+
+
+
+    .recipe-info {
+
+        width: 23%;
+
+        position: relative;
+
+        left: 77%;
+
+        bottom: 446px;
+    }
+
+
+
+    .recipe-video {
+
+        height: 30vw;
+
+        width: 60vw;
+    }
+
+    .recipe-card {
+
+        background-color: white;
+
+        border-radius: 3px;
+
+        box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
+
+        margin-bottom: 30px;
+
+        width: 108%;
+
+        position: relative;
+
+        right: 4%;
+
+        bottom: 100px;
+
+        height: 28em;
+    }
+
+    ul {
+
+        margin-top: 30px;
+
+        display: block;
+    }
+
+
+
+}
+
+/* Soluzione qui */
+
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) {
+
+
+    #logo {
+
+        display: flex;
+        position: relative;
+        right: 20%;
+        position: absolute;
+        left: 2%;
+    }
+
+    main {
+
+padding: 10%;
+
+}
+
+    .recipe-name {
+
+        font-size: 25px;
+    }
+
+    .recipe-name::after {
+
+        content: " (Dolce Tradizionale)";
+        font-size: 25px;
+
+    }
+
+    ul {
+
+        margin-top: 30px;
+
+        display: grid;
+
+        grid-template-columns: repeat(3, 1fr);
+
+
+
+    }
+
+
+    .social-networks button {
+
+        padding-inline: 50px;
+    }
+
+
+
+    .ads {
+
+        background-image: url(img/banner.png);
+        display: contents;
+
+    }
+
+    .ads img {
+
+
+
+        position: relative;
+
+        bottom: 65px;
+
+    }
+
+
+    .presentation img {
+
+        float: left;
+        margin-right: 20px;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+
+
+
+    .recipe-name {
+
+        font-size: 35px;
+
+        position: relative;
+
+        left: 51px;
+
+    }
+
+    .recipe-name::after {
+
+        content: " (Dolce Tradizionale)";
+        font-size: 35px;
+
+    }
+
+
+    .recipe-title {
+
+        width: 85%;
+        position: relative;
+        bottom: 93px;
+        right: 92px;
+
+    }
+
+
+
+
+    .recipe-info {
+
+        width: 23%;
+
+        position: relative;
+
+        left: 77%;
+
+        bottom: 446px;
+    }
+
+
+
+    .recipe-video {
+
+        height: 30vw;
+
+        width: 60vw;
+    }
+
+    .recipe-card {
+
+        background-color: white;
+
+        border-radius: 3px;
+
+        box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
+
+        margin-bottom: 30px;
+
+        width: 108%;
+
+        position: relative;
+
+        right: 4%;
+
+        bottom: 100px;
+
+        height: 28em;
+    }
+
+    ul {
+
+        margin-top: 30px;
+
+        display: block;
+    }
+
+
+
+}
+
+/* Soluzione qui */
+
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) {
+
+
+    #logo {
+
+        display: flex;
+        position: relative;
+        right: 20%;
+        position: absolute;
+        left: 2%;
+    }
+
+    main {
+
+padding: 10%;
+
+}
+
+    .recipe-name {
+
+        font-size: 25px;
+    }
+
+    .recipe-name::after {
+
+        content: " (Dolce Tradizionale)";
+        font-size: 25px;
+
+    }
+
+    ul {
+
+        margin-top: 30px;
+
+        display: grid;
+
+        grid-template-columns: repeat(3, 1fr);
+
+
+
+    }
+
+
+    .social-networks button {
+
+        padding-inline: 50px;
+    }
+
+
+
+    .ads {
+
+        background-image: url(img/banner.png);
+        display: contents;
+
+    }
+
+    .ads img {
+
+
+
+        position: relative;
+
+        bottom: 65px;
+
+    }
+
+
+    .presentation img {
+
+        float: left;
+        margin-right: 20px;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+
+
+
+    .recipe-name {
+
+        font-size: 35px;
+
+        position: relative;
+
+        left: 51px;
+
+    }
+
+    .recipe-name::after {
+
+        content: " (Dolce Tradizionale)";
+        font-size: 35px;
+
+    }
+
+
+    .recipe-title {
+
+        width: 85%;
+        position: relative;
+        bottom: 93px;
+        right: 92px;
+
+    }
+
+
+
+
+    .recipe-info {
+
+        width: 23%;
+        position: relative;
+        left: 77%;
+        bottom: 446px;
+    }
+
+
+
+    .recipe-video {
+
+        height: 30vw;
+        width: 60vw;
+    }
+
+    .recipe-card {
+
+        background-color: white;
+        border-radius: 3px;
+        box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
+        margin-bottom: 30px;
+        width: 108%;
+        position: relative;
+        right: 4%;
+        bottom: 100px;
+        height: 28em;
+    }
+
+    ul {
+
+        top: 0px;
+        margin-top: 30px;
+        display: block;
+        position: relative;
+        bottom: 74px;
+    }
+
+    address {
+
+        text-align: left;
+    }
+
+footer li {
+    margin: 10px;
+    position: relative;
+    left: 40em;
+}
+    
+}
